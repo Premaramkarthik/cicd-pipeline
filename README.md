@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cicd-pipeline
-=======
 # 🚀 Real-World Software Pipeline Simulation using Python Abstraction
 This project simulates a real-world software development pipeline, showcasing how software, data engineering, and ML teams collaborate through structured, versioned, and abstracted codebases.
 
@@ -45,7 +42,7 @@ The primary goal is to demonstrate:
 # 📦 How to Run This Project
 
 ### Step 1: Clone the repository
-git clone https://github.com/VodnalaNaveen/cicd.git
+git clone https://github.com/Premaramkarthik/cicd-pipeline.git
 cd your-repo-name
 
 ### Step 2: Install the dependencies
