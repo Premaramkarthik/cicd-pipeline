@@ -43,6 +43,7 @@ The primary goal is to demonstrate:
 
 ### Step 1: Clone the repository
 git clone https://github.com/Premaramkarthik/cicd-pipeline.git
+
 cd your-repo-name
 
 ### Step 2: Install the dependencies
@@ -85,4 +86,3 @@ cicd/
     
     ├── README.md           # Project overview
 
->>>>>>> bb0b326 (cicd files added)
